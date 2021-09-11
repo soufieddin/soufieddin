@@ -41,7 +41,7 @@ Highly motivated growing JavaScript developer! with a passion for metrics and be
 
 - Master degree in dentistery from [Kharkiv National Medical University](http://www.knmu.kharkov.ua/index.php?lang=en) in Ukraine
 - Finished 1st year of bachelor in new multimedia technologies from [Howest](https://mct.be/) Kortrijk Belgium
-- Busy in 1st year of Associate Degree in programming from [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium
+- Busy in 2nd year of Associate Degree in programming from [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium
 
 ## Experience
 [My IOT project at Howest Kortrijk 2019-2020]https://www.instructables.com/MixCheers/
