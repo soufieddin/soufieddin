@@ -10,7 +10,7 @@ Highly motivated growing full-stack javascript developer! with a passion for met
 
 :email: soufi.aiden@gmail.com
 
-:computer: https://soufieddin.github.io/
+:computer: https://soufieddin.github.io/portfolio/
 
 ## Social
 
