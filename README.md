@@ -2,7 +2,7 @@
 
 👋🌍 My name is Aiden Soufi
 I am a student programming at [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium
-Highly motivated growing full-stack javascript developer! with a passion for metrics and beating former "best-yets".
+Highly motivated growing JavaScript developer! with a passion for metrics and beating former "best-yets".
 
 ## Contact Information
 
