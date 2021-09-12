@@ -10,7 +10,7 @@ Highly motivated growing JavaScript developer! with a passion for metrics and be
 
 :email: soufi.aiden@gmail.com
 
-:computer: https://soufieddin.github.io/portfolio/
+:computer: https://soufieddin.github.io/
 
 ## Social
 
