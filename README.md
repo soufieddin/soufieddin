@@ -1,4 +1,4 @@
-![My photo](./assets/hero.svg)
+![My photo](./assets/h1.svg)
 
 👋🌍 My name is Aiden Soufi
 I am a student programming at [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium
