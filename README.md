@@ -1,4 +1,4 @@
-![My photo](./assets/bg1.png)
+![My photo](./assets/bg2.png)
 
 👋🌍 I am a student programming at [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium
 Highly motivated growing Front-End developer! with a passion for metrics and beating former "best-yets".
