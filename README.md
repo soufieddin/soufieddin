@@ -1,15 +1,11 @@
 ![My photo](./assets/bglinkd.png)
 
-👋🌍  Iam a junior software engineer who recently graduated (magna cum laude) from [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium
-Highly motivated growing Front-End developer! with a passion for metrics and beating former "best-yets".
-
+👋🌍  Iam a highly motivated growing junior front-end developer who recently graduated (magna cum laude) from [Artevelde university of applied sciences](https://www.artevelde-uas.be/programmes/associate-degree/computer-programming) Gent Belgium.
 ## Contact Information
 
 :house: Heusden 9070, East Flanders, Belgium
 
 :email: soufi.aiden@gmail.com
-
-:computer: https://www.linkedin.com/in/aiden-soufi-a17ba0191/
 
 ## Social
 
