@@ -43,7 +43,8 @@
 ## Experience
 
 ### SQLI Digital Experience
-Internship as Front-End developer
+
+Internship as Front-End developer\
 Feb 2022 - May 2022 · 4 mos
 ## Languages
 
@@ -51,10 +52,7 @@ English | Dutch | Ukrainian | Russian
 
 ## Interests
 
-- Traveling
-- Video games
-- Netflix
-- Reading
+Traveling | Video games | Netflix | Reading
 ## Github stats
 
 [![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufieddin&count_private=true&show_icons=true)](https://github.com/soufieddin/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufieddin&langs_count=8)](https://github.com/soufieddin/github-readme-stats)
