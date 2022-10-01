@@ -41,14 +41,13 @@
 - New multimedia technologies [Howest](https://mct.be/) Kortrijk Belgium
 - Master degree in dentistery from [Kharkiv National Medical University](http://www.knmu.kharkov.ua/index.php?lang=en) in Ukraine
 ## Experience
-[My IOT project at Howest Kortrijk 2019-2020]https://www.instructables.com/MixCheers/
+
+### SQLI Digital Experience
+Internship as Front-End developer
+Feb 2022 - May 2022 · 4 mos
 ## Languages
 
-- Russian ★★★★★
-- English ★★★★☆
-- Ukrainian ★★★☆☆
-- Dutch ★★★☆☆
-- Arabic ★★★★★
+English | Dutch | Ukrainian | Russian
 
 ## Interests
 
