@@ -7,7 +7,7 @@
 
 :email: soufi.aiden@gmail.com
 
-:website: https://aiden-soufi.netlify.app/ 
+:globe_with_meridians: https://aiden-soufi.netlify.app/ 
 
 ## Social
 
