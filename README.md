@@ -7,7 +7,7 @@
 
 :email: soufi.aiden@gmail.com
 
-:internet: https://aiden-soufi.netlify.app/ 
+:website: https://aiden-soufi.netlify.app/ 
 
 ## Social
 
